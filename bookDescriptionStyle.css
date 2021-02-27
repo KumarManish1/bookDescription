@@ -81,3 +81,10 @@ a
 	font-size:18px;
 	font-family:cursive;
 }
+footer
+{
+	color:white;
+	padding:1%;
+	background-color:DarkSeaGreen;
+	text-align:center;
+}
